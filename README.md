@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thatperturbedprogrammer
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web & AI Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me - email: jadhavsiddhant2202@gmail.com
 
